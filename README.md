@@ -1,135 +1,118 @@
 
-
 <div align="center">
 
   <img src="./assets/code-banner.svg" alt="Sanika Waghaskar — AI and Software Engineering" width="100%" />
 
-  <h2>Hi, I'm Sanika Waghaskar 👋</h2>
+  <br/>
 
   <p>
-    <strong>Aspiring AI/GenAI Engineer · Software Developer</strong>
+    <strong>AI / GenAI Engineer · Software Developer</strong>
   </p>
 
   <p>
-    Computer Engineering student at VIIT, Pune, passionate about
-    building intelligent applications, AI-powered developer tools,
-    and practical software solutions.
+    Computer Engineering student at VIIT, Pune, building intelligent
+    applications with Generative AI, automation, and software engineering.
   </p>
 
   <a href="https://github.com/sanikawaghaskar">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub"/>
   </a>
   <a href="www.linkedin.com/in/sanika-waghaskar-245045303">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-312E81?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn"/>
   </a>
 
 </div>
 
 ---
 
-## 💫 About Me
+<h2>⌁ About Me</h2>
 
 - 🎓 Final-year Computer Engineering student specializing in Software Engineering.
-- 🤖 Interested in Generative AI, LLM-powered applications, and intelligent automation.
-- 🛠️ Building projects that combine AI capabilities with practical software engineering.
-- 🌱 Currently strengthening my GenAI, backend development, and system design fundamentals.
-- 🎯 Career goal: AI/GenAI Engineer or Software Developer.
+- 🤖 Interested in Generative AI, LLM applications, and intelligent automation.
+- 🛠️ Building practical applications that combine AI and software engineering.
+- 🌱 Currently strengthening my GenAI and backend development skills.
+- 🎯 Aspiring AI/GenAI Engineer or Software Developer.
 
-## 🚀 Featured Projects
+<h2>⌘ Featured Projects</h2>
 
-### 🤖 AI Tester Agent
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Tester Agent</h3>
+      <p>AI-assisted test generation, browser automation, and execution reporting.</p>
+      <p><code>React</code> <code>FastAPI</code> <code>Playwright</code> <code>LLMs</code></p>
+      <a href="https://github.com/Pratikshadokhe/AI-Tester-Agent">Explore repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📄 Healthcare Secure — Document Parser</h3>
+      <p>PDF extraction, text preprocessing, and insurance information validation for a healthcare AI workflow.</p>
+      <p><code>Python</code> <code>PDF Processing</code> <code>NLP</code> <code>LLMs</code></p>
+      <a href="https://github.com/LaboneeyDhanure/Healthcare_Secure_Industry_Project">Explore repository →</a>
+    </td>
+  </tr>
+</table>
 
-AI-assisted software testing that connects requirements, test generation, browser automation, and execution reporting.
-
-**Tech:** React · FastAPI · Playwright · LLMs · PostgreSQL
-
-- Generate test cases from software requirements.
-- Automate browser-based test execution.
-- Capture failures and present execution results.
-
-[View Repository](https://github.com/Pratikshadokhe/AI-Tester-Agent)
-
-
-
-### 📄 Healthcare Secure — Document Parser
-
-A document-processing component for extracting and preprocessing insurance information for an AI-powered healthcare assistant.
-
-**Tech:** Python · PDF Processing · NLP · LLMs
-
-- Extract text from PDF documents.
-- Preprocess information for downstream processing.
-- Validate extracted information against the source document.
-
-[View Repository](https://github.com/LaboneeyDhanure/Healthcare_Secure_Industry_Project)
-
-## 🧰 Tech Stack
+<h2>⌘ Tech Stack</h2>
 
 <div align="center">
 
   <h4>Languages</h4>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-1E3A5F?style=flat-square&logo=python&logoColor=93C5FD" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-1E3A5F?style=flat-square&logo=cplusplus&logoColor=93C5FD" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-312E81?style=flat-square&logo=javascript&logoColor=DDD6FE" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-312E81?style=flat-square&logo=postgresql&logoColor=DDD6FE" alt="SQL"/>
 
-  <h4>Frontend & Backend</h4>
+  <h4>Development</h4>
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/REST_APIs-6366F1?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/React-172554?style=flat-square&logo=react&logoColor=93C5FD" alt="React"/>
+  <img src="https://img.shields.io/badge/FastAPI-134E4A?style=flat-square&logo=fastapi&logoColor=99F6E4" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-164E63?style=flat-square&logo=tailwindcss&logoColor=67E8F9" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Git-3F1D2E?style=flat-square&logo=git&logoColor=FDA4AF" alt="Git"/>
 
-  <h4>AI, Automation & Tools</h4>
+  <h4>AI & Automation</h4>
 
-  <img src="https://img.shields.io/badge/LLM_Applications-7C3AED?style=for-the-badge" alt="LLM Applications" />
-  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge" alt="NLP" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/LLM_Applications-312E81?style=flat-square&logoColor=DDD6FE" alt="LLM Applications"/>
+  <img src="https://img.shields.io/badge/NLP-312E81?style=flat-square" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Playwright-14532D?style=flat-square&logo=playwright&logoColor=86EFAC" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1E3A5F?style=flat-square&logo=postgresql&logoColor=93C5FD" alt="PostgreSQL"/>
 
 </div>
 
-## 📊 GitHub Activity
+<h2>⌁ Currently Learning</h2>
+
+- Generative AI and LLM-powered applications
+- Retrieval-Augmented Generation (RAG) fundamentals
+- Backend engineering and API design
+- AI testing and output evaluation
+
+<h2>⌘ GitHub Activity</h2>
 
 <div align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sanikawaghaskar&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A5B4FC&icon_color=818CF8&text_color=C9D1D9&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=sanikawaghaskar&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A5B4FC&icon_color=818CF8&text_color=C9D1D9"
     alt="GitHub statistics"
     height="165"
   />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikawaghaskar&layout=compact&hide_border=true&bg_color=0B1020&title_color=A5B4FC&text_color=C9D1D9"
-    alt="Most-used programming languages"
-    height="165"
-  />
-
 </div>
 
-## 🌱 Currently Learning
-
-- Generative AI and LLM application development
-- Retrieval-Augmented Generation (RAG) fundamentals
-- Backend engineering and API design
-- Software testing, evaluation, and reliability
-
-## 🤝 Let's Connect
+<h2>⌁ Let's Connect</h2>
 
 <div align="center">
 
   <a href="https://github.com/sanikawaghaskar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub"/>
   </a>
   <a href="www.linkedin.com/in/sanika-waghaskar-245045303">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn"/>
   </a>
   <a href="mailto:sanikawaghaskar4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email"/>
   </a>
 
-  <p><i>Learning continuously. Building thoughtfully. Improving every day.</i></p>
+  <br/><br/>
+  <sub><i>Building thoughtfully. Learning continuously. Improving every day.</i></sub>
 
 </div>
