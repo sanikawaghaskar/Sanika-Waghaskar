@@ -17,7 +17,7 @@
   <a href="https://github.com/sanikawaghaskar">
     <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub"/>
   </a>
-  <a href="www.linkedin.com/in/sanika-waghaskar-245045303">
+  <a href="https://www.linkedin.com/in/sanika-waghaskar-245045303/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-312E81?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn"/>
   </a>
 
@@ -105,7 +105,7 @@
   <a href="https://github.com/sanikawaghaskar">
     <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub"/>
   </a>
-  <a href="www.linkedin.com/in/sanika-waghaskar-245045303">
+  <a href="https://www.linkedin.com/in/sanika-waghaskar-245045303/">
     <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn"/>
   </a>
   <a href="mailto:sanikawaghaskar4@gmail.com">
